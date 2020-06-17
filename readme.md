@@ -1,5 +1,5 @@
 # Desafio: Conceitos NodeJS
-> Desafio para aplicação dos conceitos sobre NodeJS adquiridos no Bootcamp GoStack
+Desafio para aplicação dos conceitos sobre NodeJS adquiridos no Bootcamp GoStack
 
 API de um CRUD simples em memória.
 
